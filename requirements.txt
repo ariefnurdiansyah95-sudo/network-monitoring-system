@@ -1,0 +1,4 @@
+ping3
+Flask
+schedule
+python-telegram-bot==13.15
